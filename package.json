@@ -5,6 +5,7 @@
   "main": "./dist/cjs/index.js",
   "module": "./lib/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/TopcodeGR/react-i18next-translations-manager",
   "files": [
     "dist/"
   ],
